@@ -1,0 +1,47 @@
+
+
+body{
+    background-color: bisque;
+}
+.container{
+    margin:auto;
+    text-align: center;
+    
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:17ex;
+    margin-top: 15px;
+    font-family:'Lobster', cursive;
+    text-shadow:6cqh;
+    color:darkorchid;
+      
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+    
+}
+.same{
+    font-size: 3rem;
+}
+
+
+p{
+    color:darkorchid;
+    
+}
+.oneline{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 15px;
+}
+footer{
+    text-align: center;
+    font-size: 25px;
+}
